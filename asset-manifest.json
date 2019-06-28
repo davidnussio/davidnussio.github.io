@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/about-me/static/js/main.9cddb9c4.chunk.js",
+    "main.js.map": "/about-me/static/js/main.9cddb9c4.chunk.js.map",
+    "runtime~main.js": "/about-me/static/js/runtime~main.838ee889.js",
+    "runtime~main.js.map": "/about-me/static/js/runtime~main.838ee889.js.map",
+    "static/css/2.a0b7eb62.chunk.css": "/about-me/static/css/2.a0b7eb62.chunk.css",
+    "static/js/2.648edfe7.chunk.js": "/about-me/static/js/2.648edfe7.chunk.js",
+    "static/js/2.648edfe7.chunk.js.map": "/about-me/static/js/2.648edfe7.chunk.js.map",
+    "index.html": "/about-me/index.html",
+    "precache-manifest.cf0a0d9423ac934b0bd1ac911602a383.js": "/about-me/precache-manifest.cf0a0d9423ac934b0bd1ac911602a383.js",
+    "service-worker.js": "/about-me/service-worker.js",
+    "static/css/2.a0b7eb62.chunk.css.map": "/about-me/static/css/2.a0b7eb62.chunk.css.map",
+    "static/media/ecomunicare.png": "/about-me/static/media/ecomunicare.2fb65745.png",
+    "static/media/eoc-cardmedia.png": "/about-me/static/media/eoc-cardmedia.a14d3849.png",
+    "static/media/jq.png": "/about-me/static/media/jq.c546e5dc.png",
+    "static/media/me.jpg": "/about-me/static/media/me.2933089d.jpg",
+    "static/media/index.css": "/about-me/static/media/roboto-latin-900italic.bc833e72.woff",
+    "static/media/tecnavia.png": "/about-me/static/media/tecnavia.4be03c95.png"
+  }
+}
